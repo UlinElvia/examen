@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	color: skyblue;
 	background-color: red;
@@ -43,4 +44,17 @@ h3{
 }
 h6{
 	color: orange;
+=======
+h1{
+	color: blue;
+}
+h2{
+	color: red;
+}
+h3{
+	color: green;
+}
+h6{
+	color: yellow;
+>>>>>>> b4668b9af7031136eb39f8c3844468e2a8fadc4d
 }
